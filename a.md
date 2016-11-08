@@ -214,3 +214,295 @@ t**abandon**
 	- `use up a large supply of sth`
 - 承受，承担
 	- absorb such huge losses 承受巨大损失
+
+**absorbing**
+`hold your attention`
+- 十分吸引人的，引人入胜的，精彩的
+
+**absorption**
+- 吸收
+- 并入，同化
+- 专心致志，全神贯注，着迷 `take all their attention`
+	- absorption in sth
+
+**abstract**
+- 抽象的
+	- abstract principles 抽象原理
+- 摘要，概要（名词）
+- in the abstract 抽象地，理论上
+- 把···抽象出，提取，抽出
+	- abstract water from river 抽水
+	- abstract sth 写出（书等的）摘要
+
+**abstracted**
+- 出神的，全神贯注的
+
+**abstraction**
+- 抽象概念，抽象
+- 出神，全神贯注
+- 提取，抽取，分离
+
+**abundance**
+- 大量，丰盛，充裕
+	- `fruit and vegetables grew in abundance on the island` 该岛盛产水果和蔬菜
+**abundant**
+- 大量的，丰盛的
+	- `fish are abundant in the lake` 湖里鱼很多
+
+**abundantly**
+- 十分清楚，非常明白
+	- abundantly clear `very clear`
+- 大量地，丰盛地，充裕地
+
+**abuse**
+- 滥用（名词）
+	- alcohol/drug abuse 酗酒，嗜毒
+	- be open to abuse 可能被人钻空子
+	- abuse of power 滥用职权
+- 虐待
+	- child abuse 虐待儿童
+	- physical abuse 肉体摧残
+- 辱骂
+	- scream/hurl/shout abuse 高声谩骂，破口大骂，大声辱骂
+	- a stream/torrent of abuse 不断辱骂，一通臭骂
+- 滥用（动词）
+	- abuse sth
+	- abuse alcohol/drugs
+	- abuse sb 虐待，辱骂
+
+**abusive**
+- 辱骂的，诽谤的
+- abusive language/remarks 恶言谩骂
+
+**academic**
+- 学业的，学术的
+- high/low academic standards 高、低学术水平
+- academic subject/qualifications学科，学历
+- 学习良好的
+- 纯理论的
+
+**accede**
+- 同意（请求，建议）
+	- accede （to sth）
+- 就任，就职
+	- accede （to sth）
+
+**accelerate**
+- （使）加速，加快
+	- sth accelerate
+	- accelerate sth
+		- `accelerate the aging process` 加速老化过程
+- （车辆或人）加速，加快
+	- `the car accelerate to overtake me` 那辆车加速超过了我
+
+**accent**
+- 口音，腔调
+	- a strong/broad accent 浓重的口音
+	- with an accent 带有口音
+- 重音
+- 着重点
+	- `in our products the accent is on quality` 我们的全部产品都是强调质量
+- 强调，突出（动词）
+
+**accept**
+- 接受（建议，邀请）
+	- accept sth
+	- accept sth from sb
+- （认为合适或足够好而）接受 
+	- `this machine only accepts coins` 这台机器只接受硬币
+	- `will you accept a cheque?` 你收支票吗？
+	- `my article has been accepted for publication`
+- 同意，认可
+	- accept sth from sb
+- 承认，承担（责任）
+	- `he accepts full responsibility for what happened` 负全部责任
+	- `you have to accept the consequences of your actions`
+- 相信
+	- `I don't accept his version of events` 我不相信他对事件的说法
+	- `I accept that ...` 我认为···
+	- `It's generally accepted that ...` 普遍认为，···
+	- sth/sb be （generally）accepted to be，have，etc
+- 容忍，忍受
+	- accept the fact that ... 接受···的事实
+	- accept that ...
+	- `they accept the risks as part of the job` 他们甘冒风险，把这当成工作的一部分
+- 欢迎，接纳
+	- accept sb into sth
+	- accept sb as sth
+- 准许加入
+	- accept sb
+	- accept sb into sth
+	- accept sb to do sth
+
+**acceptable**
+- 认同的，认可的
+- 可接受的，令人满意的，可容许的
+	- sth be acceptable to sb
+- 还可以，尚可（还不够好）
+	- `the food was acceptable,but no more` 食物还可以，但说不上很好
+	
+**acceptance**
+- 接受
+	- gain widespread acceptance 获得广泛的赞同
+- 逆来顺受
+	
+**access**
+- 通道，入径
+	- gain access through 通过···进入
+	- access to sth 通往···的路径
+	- have/get access （to sth） （使用或见到的）机会，权利
+	- be denied access to sth 被拒
+- access sth 到达，进入，使用（动词）
+
+**accessible**
+- 可到达的，可接近的
+	- be accessible to sb
+
+**accident**
+- 事故
+	- a car/road/traffic accident 车祸，公路事故，交通事故
+	- a fatal accident 死亡事故
+- 意外，偶然的事
+	- `It is no accident that ...` ···绝非偶然
+	- an accident of fate/history 命运，历史的偶然性
+	- by accident 偶然，意外地
+		- meet by accident 不期而遇
+
+**acclaim**
+- 称赞某人、某物为···，给予高度评价(动词)
+	- acclaim sb/sth (as sth)
+- 称赞，高度评价（名词）
+
+**acclamation**
+- 喝彩，欢呼
+- 拥护，赞成
+
+**accommodate**
+- 提供住宿（动词）
+	- `the hotel can accommodate up to 500 guests` 可供500位旅客住宿
+	- sth can be accommodated 可以容纳
+- 考虑到，顾及
+	- accommodate sth 
+- 帮忙，提供方便
+	- accommodate sb (with sth)
+		- accommodate sb a great deal
+- 顺应，适应
+	- accommodate(sth/yourself) to sth
+
+**accommodating**
+- 乐于助人的，与人方便的
+
+**accommodation**
+- 住处
+- 和解，调解
+	- reach an accommodation with sb
+
+**accompany**
+- 陪同，陪伴
+	- accompany sb
+- 伴随，与···同时发生
+	- accompany sth 
+	- strong winds accompanied by heavy rain 狂风夹着暴雨
+	- `each pack contains a book and accompanying CD` 每包装书一本，并附光盘一张
+- 为···伴奏
+	- be accompanied on the piano by sb 由某人钢琴伴奏
+
+**accomplish**
+- 完成
+	- accomplish sth
+	- mission accomplished 大功告成
+	- 
+**accomplished**
+- 才华高超的，技艺高超的
+
+**accomplishment**
+- 成就，成绩
+- 才艺，技艺
+- 完成
+	- `money will be crucial to the accomplishment of our objectives` 要实现目标，钱是至关重要的
+
+**accord**
+- 协议，条约
+- in accord with sb/sth 与···一致 `in agreement with`
+- of your own accord 自愿地，主动地
+- with one accord 全体一致，一致地
+- 给予，赠与，授予
+	- accord sth to sb/sth
+	- accords great importance to 赋予···重要地位
+- 与···一致，符合（动词）
+	- accord with 
+
+**accordance**
+- 依照，根据
+	- in accordance with sth
+
+**accordingly**
+- 照着，相应地
+	- `for that reason`
+	- （用于句首）因此，所以
+	- Accordingly,...
+
+**according to**
+- 据(…所说)；按(…所报道)
+	- `as stated or reported by sb / sth`
+	-  According to sth/sb,...
+- 依照；按照；根据
+	- `Everything went according to plan`  一切均按照计划进行
+
+
+----------
+`His view is that ...`
+`according to Reporting/sb's opinion`
+`For sb,...` 对于···来说，···
+`His view is that ...`
+`sb take the view that ...`
+`In sb's view,...`
+`sb is of the opinion that ...`
+
+----------
+
+**account**
+- 账户
+	- bank account
+	- open / close an account 
+- 账目
+	- do the accounts 记账
+	- the accounts department 会计部门
+- 赊欠账
+	- `Put it on my account please` 请记在我的赊购账上
+- 老主顾
+	- `a regular customer`
+- 描述；敍述；报告(名词)
+	- `give the police a full account of the incident` 向警方详尽地敍述了所发生的事情
+- 解释,说明（名词）
+- by / from all accounts 据说；根据报道
+- by your own account 根据某人自己所说
+- give a good/poor account of themselves (尤指比赛中)表现好/不好
+- of no / little account 不重要；无足轻重
+- pay on account 赊账
+- on sb's account 为了某人的缘故
+- on account of sb / sth 由于；因为
+- on no account | not on any account 决不；绝对不
+- on your own account 为自己;自愿地
+- on this / that account 由于这个/那个缘故
+- put / turn sth to good account 善用；利用
+- take account of sth | take sth into account 考虑到；顾及
+
+
+- 认为是；视为(动词)
+- 是…的说明(或原因)
+	- ... account for sth ...是.. 的原因
+	- that accounts for it 原来是这么一回事
+- account for sth 
+	- 解释；说明
+		- `give an explanation of sth`
+		- `How do you account for ...` 认为···的原因是什么？
+	-  (数量上、比例上)占
+	- (尤指在事故之后)了解,查明
+		- ac'count for sb / sth 
+		- `All passengers have now been accounted for` 现在所有乘客的情况均已查明
+	- 报账
+		- account for sth (to sb) 
+
+
+
