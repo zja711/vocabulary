@@ -504,5 +504,97 @@ t**abandon**
 	- 报账
 		- account for sth (to sb) 
 
+**accountable**
+- 负有责任
+	- be accountable (to sb) (for sth)
 
+**accredit**
+- 把…归于；认为(某事为某人所说、所作)
+`be responsible for`
+	- accredit sth to sb | accredit sb with sth 
+- 委任,委派
+	- accredit sb to ...
+- 正式认可
+	- accredit sth/sb
 
+**accredited**
+- 官方认可的；获正式承认的
+- 鉴定合格的；达到标准的
+
+**accumulate**
+- 积累；积聚
+- (数量)逐渐增加；(数额)逐渐增长 
+	- `build up`
+
+**accuse**
+- 控告；控诉；谴责
+	- accuse sb (of sth)
+
+**accustom**
+`make sb familiar with sth` `become used to sth`
+- 使习惯于
+	- accustom yourself / sb to sth 
+
+**accustomed**
+`accept sth as normal or usual`
+- 习惯于
+	- be accustomed to sth / to doing sth 
+	- become / get accustomed to sth
+	- grow accustomed to sth
+- 通常的；惯常的
+
+**ache**
+- 疼痛；隐痛
+- 渴望
+	- `have a strong desire for sth or to do sth`
+	- ache for sb / sth
+
+**achieve**
+- 达到(某目标、地位、标准)
+	- achieved success
+	- achieve the target of 
+	- achievable goals 可以达到的目标
+
+**achievement**
+- 成就；成绩；功绩
+- 达到；完成
+	- a sense of achievement 成就感
+
+**acid**
+- (言辞)尖刻的；尖酸的
+- 酸的；酸性的
+
+**acknowledge**
+- 承认(属实)（动词）
+	- `accept that sth is true`
+	- a generally acknowledged fact 公认的事实
+	- It is generally acknowledged to be true 普遍认为那是真的
+- 承认地位
+	- `recognize `
+	- acknowledge sb / sth (as sth)
+- 告知收悉
+	- `Please acknowledge receipt of this letter` 信收到后请覆函告知
+-  (微笑、挥手等)致意
+	- `she didn't even acknowledge me`
+- 表示感谢
+
+**acquaint**
+- 使熟悉；使了解
+	- acquaint sb / yourself with sth 
+
+**acquaintance**
+（名词）
+- 认识的人；泛泛之交；熟人
+	- have a wide circle of `friends and acquaintances`
+- (与某人)认识,略有交情
+	- acquaintance (with sb)
+- (对某事物的)的了解
+	- `knowledge of sth`
+	- acquaintance with sth
+- 与某人初次相见；结识某人
+	- make sb's acquaintance 
+	- make the acquaintance of sb 
+- 所认识的；所了解的
+	- of your ac'quaintance
+- 初次相见时
+	- on first acquaintance
