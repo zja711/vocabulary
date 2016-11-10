@@ -598,3 +598,140 @@ t**abandon**
 	- of your ac'quaintance
 - 初次相见时
 	- on first acquaintance
+
+**acquainted**
+- 熟悉；了解
+	- be acquainted with sth
+- (与某人)相识,熟悉
+	- be acquainted (with sb)
+	- get acquainted
+
+**acquiesce**
+- 默然接受；默认；默许
+	- acquiesce (in sth)
+
+**acquiescence**
+- There was general acquiescence in ... 普遍默认了···
+
+**acquire**
+- 获得,得到,购得
+
+**acquisition**
+- (知识、技能等的)获得,得到
+- 购得物;收购的公司；购置的产业；购置；收购
+	- make acquisition
+
+**across**
+- 从…的一边向…
+	- `he looked across at me` 他从那边朝我看过来
+- 在...对面
+	- across from ...
+
+**act**
+- 行为；行动；所为
+	- an act of kindness 善行
+	- acts of terrorism 恐怖行动
+	- a criminal act 犯罪行为
+- 法案,法令
+- 假装
+	- it's all an act 这全是假戏一场
+	- put on an act 装模作样
+- (戏剧、歌剧等的)一幕
+- 表演者；音乐人组合
+- act of God 天灾；不可抗力
+	- `beyond human control`
+- be / get in on the act 参与；插一手
+- in the act (of doing sth) 正在(做某事)；当场
+	- be caught in the act of 被当场逮个正着
+- 做事；行动
+	- `It is vital that we act to do sth` 至关紧要的是,我们应当采取行动
+	- `act in self-defence`
+- 行为；举止（动词）
+	- act like sth 举止像···
+- 假装
+	- act dumb 装哑
+- 充当；起作用
+	- act as / like sth
+- (对…)有作用,有影响
+	- act (on sth)
+- 根据(建议、信息等)行事
+	- act on / upon sth 
+- act sth out 
+	- 履行(仪式)；将…表演出来
+	- 充当(真实情况中的角色)
+- act up
+	- 捣乱
+	- 出毛病
+
+**acting**
+- 表演
+
+**action**
+- 行动
+	- take action 采取了行动
+	- course of action 行动方针
+	- plan of action 行动计划
+- 所做之事；行为
+	- quick action 迅速的行动
+- 诉讼；起诉
+	- take legal action against 起诉
+	- A action is being brought against sb ···将被起诉
+- 战斗；作战
+	- military action 军事行动
+- (故事、戏剧等中的)情节
+	- `The action takes place in France` 这个故事发生在法国
+-  (一种物质或化学品对另一种所起的)作用
+	- action of sth (on sth)
+- (身体部位的)动作,功能
+	- the action of the liver 肝功能
+- actions speak louder than words
+- in action 在活动中；在运转
+- 实行；实施
+	- put an idea or a plan into action
+- 不能工作；失去作用；停止运转
+	- out of action 
+
+**active**
+- 积极的
+	- active involvement / participation / support / resistance 积极参与/参加/支持/抵抗
+	- take an active part in sth 积极参加
+	- be active in doing sth
+	- take active steps to do sth
+- 活跃的；(思想上)充满活力的
+- 起化学作用的；有效的
+	- active ingredient 有效成分
+
+**activity**
+- 活动
+	- economic activity 经济活动
+	- physical activity 身体活动
+- (为兴趣、娱乐或达到一定目的而进行的)活动
+	- leisure / outdoor / classroom activities 休闲/户外/课堂活动
+	- illegal / criminal activities 不法/犯罪活动
+
+**actual**
+- 真实的；实际的
+	- in actual fact (= really) 实际上
+-  (强调事情最重要的部份)真正的,…本身
+
+**actuality**
+- 真实；实际
+	- in actuality 
+- 真实情况；现实情况；事实
+
+**actually**
+- (在口语中用于强调事实)的确,真实地,事实上
+- (表示想法与事实不一致因而惊奇)居然,竟然
+-  (礼貌地引起注意、转换话题、直言)确实,说实在的
+	-  Actually,...
+
+**acute**
+- 十分严重的
+	- `There is an acute shortage of water` 水严重短缺
+	- acute pain 剧痛
+-  (疾病)急性的
+- 灵敏的 `keen`
+	- an acute sense of smell 嗅觉灵敏
+- 敏锐的；有洞察力的
+	- `Her judgement is acute` 她的判断敏锐
+- （几何）锐角的
