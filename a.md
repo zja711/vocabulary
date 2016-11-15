@@ -735,3 +735,414 @@ t**abandon**
 - 敏锐的；有洞察力的
 	- `Her judgement is acute` 她的判断敏锐
 - （几何）锐角的
+
+**adapt**
+- 使适应,使适合(新用途、新情况)
+	- adapt sth (for sth)
+- 适应(新情况)`adjust`
+	- adapt (yourself) (to sth)
+- 改编；改写
+	- adapt sth (for sth) (from sth)
+
+**adaptable**
+	- 有适应能力的；能适应的
+
+**add**
+- 增加；加添
+	- add sth (to sth)
+- 加
+	- add A to B | add A and B (together)
+- 补充说；继续说
+	- `make a further remark`
+	- add sth (to sth)
+- add insult to injury  伤害之余又侮辱
+- add sth in 把…加进去；包括
+- add sth on (to sth) 附加；加上
+- add to sth 使(数量)增加；使(规模)扩大
+- add up 
+	- 合乎情理；有道理
+	- 积少成多
+- add up | 7add sth up 把…加起来
+- add up to sth 
+	- 总共是；总计为
+	- 结果是；表示 `amount to sth`
+
+**addicted**
+- 上瘾；成瘾；有瘾
+	- be addicted (to sth)
+
+**addition**
+- 加；加法
+- 增加物；添加物
+	- addition (to sth)
+- 增加；添加（名词）
+	- with the addition of sth
+- in addition (to sb / sth) 除…以外(还)
+
+**address**
+- 住址；地址；通信处
+	- change of address 地址的更改
+	- of no fixed address 居无定所的
+- 演说；演讲（名词）
+- 写(收信人)姓名地址；致函
+	- address sth (to sb / sth)
+- 演说；演讲（动词）
+	- `make a formal speech to sb`
+	- address a meeting 会议上发表演讲
+	- address sb | address sth to sb 向…说话
+- 称呼(某人)
+	- address sb (as sth)
+- 设法解决；处理；对付
+	- address (yourself to) sth
+	- address the real issues 论证实质问题
+
+**adept**
+- 内行的；熟练的；擅长的
+	- adept (at / in sth) | adept (at / in doing sth)
+
+**adequate**
+- 足够的；合格的；合乎需要的
+	- be adequate (for sth)/(to do sth)
+
+**adhere**
+- 粘附；附着
+	- adhere (to sth)
+- 坚持,遵守,遵循(法律、规章、指示、信念等)
+	- adhere to sth 
+
+**adjudge**
+- 宣判；裁决；判定
+	- adjudge sth + adj
+	- adjudge sth + noun
+	- sth is adjudged to be, have, etc. sth
+
+**adjudicate**
+- 判决,裁决(争执等)
+	- adjudicate (on / upon / in sth) 
+	- adjudicate (between A and B)
+
+**adjust**
+- 调整；调节
+	- adjust sth (to sth)
+- 适应；习惯
+	- adjust (to sth / to doing sth) 
+	- adjust (yourself to sth)
+	
+**administer**
+- 管理(公司、组织、机构)；治理(国家)
+- 施行；执行
+	- administer justice / the law 司法；执法
+- 给予；提供
+	- administer sth (to sb)
+- 给予,施用(药物等)
+	- administer sth (to sb)
+
+**administration**
+- 管理,行政
+- 施行；执行
+	- the administration of justice 司法
+- 管理部门,行政部门
+- 政府
+- (药物的)施用
+	-  the administration of antibiotics 施用抗生素
+
+**admire**
+- 钦佩；赞赏；仰慕
+	- admire sb / sth (for sth) 
+	- admire sb (for doing sth)
+	- `admire the way he handled the situation` 他处理这个局面的手段
+- 欣赏
+	- admire sth 
+
+**admission**
+- (机构、组织等的)准许加入,加入权,进入权
+	- admission (to sth)
+	- gain admission to 
+- (尤指对过错、罪行的)承认,招认,招供
+	- admission (of sth) | admission (that...) 
+	-  an admission of guilt / failure / defeat 承认有罪/失败/被击败
+	-  by his own admission 据自己承认
+-  入场费；门票费
+	-  admission charges / prices
+	-  What's the admission? 门票多少钱？
+
+**admit**
+- 承认事实
+	- admit (to sth / to doing sth)
+	- admit (to sb) (that...) 
+	- ..., I admit. 我承认
+	- admit defeat 
+	- Admit it! 承认了吧！
+	- It was generally admitted that ...普遍认为,
+	- refused to admit his guilt 拒不认罪
+- 准许进入/加入
+	- admit sb / sth (to / into sth)
+- 接收入院；收治
+	- `Two crash victims were admitted to the local hospital` 两位车祸受害者已送进当地医院
+- 容许,有…可能(指解决办法、解释等) 
+	- admit of sth
+
+**adopt**
+- 收养；领养
+- 采用(某方法)；采取(某态度)
+	- adopt different approaches to the problem
+- 正式通过,表决采纳(建议、政策等)
+	- adopt a resolution 通过一项决议
+- 采用(某种举止、说话方式等)
+	- `He adopted an air of indifference` 他摆出一副满不在乎的样子
+- 选定,选举(某人为候选人或代表)
+	- adopt sb (as sth)
+
+**adoption**
+- 采用(想法、计划、名字等)
+	- the adoption of new technology 新技术的采用
+
+**adore**
+- 热爱,爱慕(某人)
+- 喜爱,热爱(某事物)
+
+**adrift**
+(形容词)
+- 漂浮；漂流
+- 漫无目的；随波逐流；漂泊无依
+- 脱开；松开
+	- come adrift
+- 分数落后；排名在后
+	- be adrift (of sb / sth)
+
+**adult**
+- 成年人
+- 成年的；发育成熟的
+- (智力、思想、行为)成熟的,成人的
+
+**advance**
+- (尤指武装部队的)前进,行进
+- 进步；进展
+	- advance (in sth)
+- 预付款
+	- an advance of £5 000 
+	- an advance on salary 预支薪金
+- (价格、价值的)上涨,提高
+- in advance (of sth) 
+	- a week / month / year in advance 提前一星期/一月/一年
+	- (发展上)超前
+- (为了进攻、威胁等)前进,行进（动词）
+	- advance (on / towards sb / sth)
+- (知识、技术等)发展,进步
+- 促进；推动
+- 预付
+	- advance sth (to sb) | advance (sb) sth 
+- 提出(想法、理论、计划)
+- 提前；提早
+- 向前推(至下一步)；(使)向前移动
+- 上涨；增加
+	- Oil shares advanced 股票上涨
+- 预先的；事先的（形容词）
+	- advance warning 
+	- advance notice 
+	- advance booking 
+
+**advanced**
+- 先进的
+- 高级的；高等的
+- (发展)晚期的,后期的
+	- the advanced stages of the disease 疾病晚期
+- of advanced years | sb's advanced age 高龄；年事已高
+
+**advancement**
+- 促进；推动；发展；前进
+	- the advancement of knowledge / education / science 
+- (工作、社会等级等的)提升,晋升
+
+**advantage**
+- 有利条件；有利因素；优势
+	- advantage (over sb)
+	- have the advantage of 
+	- be at an advantage (= have an advantage) 处于优势
+- be/work to your ad'vantage 对…有利
+- take ad'vantage of sth / sb 
+	- 利用；利用(机会)
+		- take full advantage of
+	- 欺骗；占…的便宜
+		- `make use of sb / sth`
+- to (good/best) advantage  (十分/最)有效地,出色地；使优点突出
+- turn sth to your advantage 使转为有利；变(不利)为有利
+
+**advantageous**
+- 有利的；有好处的
+	- be advantageous (to sb)
+
+**advent** 
+- (重要事件、人物、发明等的)出现,到来
+	- the advent of sth / sb 
+	- the advent of new technology 新技术的出现
+
+**adventure**
+`take risks`
+- 冒险；冒险经历；奇遇
+	- adventure stories 历险故事
+- a sense / spirit of adventure 冒险意识/精神 
+
+**adventurous**
+- 有冒险精神的；大胆开拓的
+- (指事物、方法、思想)新奇的
+- 充满新鲜事物的；刺激不断的；惊险的 
+	- an adventurous trip / lifestyle 惊险的旅行；充满刺激的生活方式
+
+**adverse**
+- 不利的；有害的；反面的
+	- adverse change / circumstances / weather conditions 不利的变动；逆境；恶劣天气
+	- be adversely affected 被损害
+
+**adversity**
+- 困境；逆境
+	- courage in the face of adversity 面对逆境的勇气
+
+**advertise**
+- 做广告；登广告
+	- advertise sth (as sth)
+- 宣传，公布,征聘
+	- advertise (for sb / sth)
+
+**advice**
+(名词)
+- 劝告；忠告；建议；意见
+	- advice (on sth)
+	- give advice 
+	- seek legal advice 寻去法律咨询
+	- Follow your doctor's advice 遵从医嘱
+	- a piece of advice
+	- A word of advice. 一句忠告:...
+	- Take my advice
+	- on his advice 照他的建议
+
+**advise**
+- 劝告；忠告；建议
+	- advise (sb) (against sth / against doing sth)
+	- strongly advise against doing sth 
+	- advise extreme caution 建议要慎之又慎
+	- advise sb to do sth /not to do sth
+	- advise that ...
+	- It is strongly advised that ...
+	- advise doing sth
+- 出主意；提出建议；提供咨询
+	- advise (sb) on sth
+	- advise (sb) about sth / about doing sth 
+- 通知；正式告知
+	- advise sb (of sth)
+	- advise sb when, where, how
+	- advise sb that…
+
+**advisement**
+- 劝告；建议；忠告；意见
+- 对某事作周密考虑；深思熟虑
+	- take sth under advisement 
+
+**advocate**
+- 拥护；支持；提倡
+	- advocate sth
+	- advocate(sb) doing sth
+	- advocate that…
+- 拥护者；支持者；提倡者
+	- advocate(for sth/sb)
+	- advocate(of sth/sb)
+
+**affair**
+- 公共事务；政治事务
+	- world / international / business affairs 世界/国际/商业事务
+	- foreign affairs 外交事务
+- 事件；事情
+- 私通,风流韵事
+- 个人事务
+	- put her affairs in order 
+- 个人的事（同business）
+- 不寻常之物；难描述的东西
+
+**affect**
+- 影响
+- 疾病)侵袭,感染
+	- affect sb/sth
+- (感情上)深深打动；使悲伤(或怜悯等)
+	- affect sb
+- affect(to do) sth 假装（同put on）
+
+**affection**
+- 喜爱；钟爱
+	- affection (for sb / sth)
+	- love and affection 关爱，关怀
+	- be held in deep affection by sb 受···爱戴
+- 爱情
+
+**affected**
+- 假装的；做作的
+
+**affectionate**
+- 表示关爱的
+
+**affiliate**
+- 使隶属,使并入
+	- affiliate sb/sth (with/to sb/sth)
+- 加入；與…有關
+	- affiliate(yourself) (with sb/sth)
+- 附属机构；分支机构；分公司（名词）
+
+**afflict**
+- 折磨；使痛苦
+	- be afflicted with sth
+
+**afford**
+- 买得起；(有时间)做,能做
+	- afford sth
+	- afford to do sth
+	- afford sth to do sth
+	- afford £50 for a ticket 拿得出 50 英镑买一张票
+	- afford a new car 买得起一辆新车
+- 承擔得起（後果）
+	- afford to do sth
+- 提供；給予
+	- afford sb sth
+	- afford sth
+
+**afloat**
+（形容词）
+- (在水上)漂浮
+- 有偿债能力；能维持下去
+	- ..., just to stay afloat 维持下去
+	
+**afoot**
+- 计划中；进行中的
+
+**afraid**
+- 害怕,畏惧
+- 担心(会发生某事)
+	- afraid of sb/sth
+	- afraid of doing sth
+	- afraid to do sth
+	- afraid(that…)
+	- afraid for sb/sth 
+
+**after**
+- (时间)在…后
+	- shortly after 5 5 点钟刚过
+	- Not long after that... 那以后不久
+- (表示反复不断或一个接着一个)
+	- time after time 一再
+- 跟随；追赶；在…后面
+	- Shut the door after you 随手关门
+- (按顺序、重要性)在…后面,仅次于
+	- come after sb 紧随其后
+	- ..., after sb.···，仅次于
+	- After you 请先走
+- 寻找；追捕
+	- be after sb
+- 问候
+	- ask after sb
+- 模仿；依照
+	- `a painting after Goya ` 一幅仿戈雅的画
+- after all 毕竟；终归
+- Soon after,... 不久以后···
+- ever after 从此以后
+- in after years 在以后的岁月中
+
+
+
