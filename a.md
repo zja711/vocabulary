@@ -1144,5 +1144,78 @@ t**abandon**
 - ever after 从此以后
 - in after years 在以后的岁月中
 
+**again**
+- 再一次；又一次
+	- Once again
+	- again and again 
+	- all over again 
+- 增加；多
+	- `The cost is about half as much again as it was two years ago` 现在的价格比两年前提高约一半
+	- `I'd like the same again` 我想再来一份同样的
+- 再说；其次
+	- And again,...
+- (引出相对照的事实或看法)再说,另一方面
+	- but then again 
 
+**against**
+- 反对；与…相反；逆；违反
+- 对…不利
+	- `The evidence is against him` 证据对他不利
+- 紧靠；倚；碰；撞
+- 以防
+	- take precautions against fire 采取了防火措施
+- 以…为背景；衬托
+- 和…相比
+	- weigh the benefits against the cost 权衡利益与成本二者的得失
+
+**age**
+- 年龄
+	- at the age of 18
+	- children from 5–10 years of age 5 至 10 岁的儿童
+	- of all ages 
+	- at an early age 幼年
+	- for his age 以他的年龄,...
+	- `There's a big age gap between them` 他们的年龄相差很大
+- 很长时间
+	- waited for ages
+	- take ages to do sth
+	- ages ago 老早
+	- It's been an age since ...
+- be/act your age 行为和年龄相称
+- comes of age 成年；达到法定年龄
+- under age 未到法定年龄
+
+**agency**
+- 代理机构,经销机构
+- through the agency of 由于…的作用
+
+**agent**
+- 代理人,经纪人
+- 原动力,动因(指对事态起重要作用的人、事物)
+- (化学)试剂
+
+**aggregate**
+- 总数；合计
+	- in aggregate 总共；作为总体
+	- on aggregate (各次比赛相加的)总分
+		- `They won 4–2 on aggregate`
+- 总数的；总计的
+- 总计；合计（动词）
+	- aggregate sth (with sth)
+
+**aggressive**
+- 好斗的；挑衅的；侵略的；富于攻击性的
+- 气势汹汹的；声势浩大的；志在必得的
+
+**aggrieved**
+- 愤愤不平的；感到受委屈的
+	- aggrieved(at/by sth)
+
+**agitate**
+- (尤指为法律、社会状况的改变而)激烈争论,鼓动,煽动
+	- agitate (for / against sth)
+	- agitate to do sth
+- 激怒；使不安；使激動
+	- agitate sb
+- 搅动；摇动(液体等) 
 
