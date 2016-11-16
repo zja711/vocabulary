@@ -1219,3 +1219,241 @@ t**abandon**
 	- agitate sb
 - 搅动；摇动(液体等) 
 
+**agree**
+- 同意
+	- agree(with sb) (about/on sth)
+	- agree with sth
+	- agree(that)…
+	- I couldn't agree more!’(= I completely agree)
+	- It was agreed (that) ...
+	- agree to do sth
+	- agree on sth
+- (与…)相符,一致
+	- agree (with sth)
+	- `The figures do not agree` 这些数字不相符
+- agree to differ 同意各自保留不同意见
+- not agree with sb 使难受；不适合；不相宜
+
+**agreeable**
+- 愉悦的；讨人喜欢的；宜人的
+- 欣然同意
+	- be agreeable to sth
+- 可以接受的；适合的
+	- be agreeable to sb
+
+**agreement**
+- 协定；协议；契约
+	- agreement (with sb) 
+	- agreement (between A and B)
+	- An agreement was reached 
+	- The agreement was signed 
+	- make a verbal agreement to do sth 达成了口头协定
+- (意见或看法)一致
+	- be in agreement about sth
+	- reach agreement
+- 应允；同意
+	- get sb's agreement
+
+**ahead**
+- (时间、空间)向前面,在前面
+- 提前；预先；提早
+- 占优势；领先
+	- keep ahead 保持领先优势
+- be ahead of
+	- (时间、空间)在…前面
+	- well ahead of 遥遥领先
+	- `His ideas were` way ahead of his time.超越了他那个时代
+
+**aid**
+- 援助；救援物资；援助款项(名词)
+	- economic / humanitarian / emergency aid 经济/人道主义/紧急援助
+	- aid agencies 救援机构
+- 帮助,助手,辅助物
+	- with the aid of sth/sb
+	- without the aid of 
+- 帮助；援助
+	- come to his aid (= helped him)
+- 辅助设备
+	- a hearing aid 助听器
+- in aid of sth / sb 为了帮助某事物/人
+- what's... in aid of? …究竟是为啥(发生)；…是做什么用的
+- 帮助；援助（动词）
+	- aid(sb/sth) in sth/in doing sth
+	- aid sb (to do sth)
+	- aid sb (with sth)
+
+**ailing**
+- 有病的；体弱的
+- 处境困难的；每况愈下的
+
+**aim**
+- 目的；目标
+	- with the aim of 
+	- achieve these aims
+	- aims and objectives 各项目标
+- 瞄准（名词）
+	- take aim at sb / sth 把目标对准某人(或某事物)；把批评的矛头指向某人(或某事物)
+	- `direct your criticism at sb / sth`
+- 力求达到；力争做到（动词）
+	- aim (at doing sth) 
+	- aim (at / for sth)
+	- aime high 心气很高
+- 目的是；旨在
+	- be aimed at 
+- 瞄准；对准
+	- aim (sth) (at sb / sth) 
+	- aim (for sb / sth)
+- 针对；对象是
+	- aim sth at sb 
+
+**air**
+- 空气
+- 空中；天空
+	- in / into the air
+	- through the air
+	- the night air 夜空
+- (飞行的)空中,天空
+	- air travel / traffic 航空旅行；空中交通
+	- air attack 空袭
+- 感觉；印象；神态
+	- a defiant air 蔑视的神情
+- put on airs 装腔作势
+- in the air 在传播中；流行；可感觉到的
+	- `There's romance in the air` 有种浪漫的气氛
+- on / off (the) air 正在/停止播送(电视、广播)
+- up in the air 悬而未决
+- 晾；晾干（动词）
+- (使)通风,透风
+- 公开发表
+	- air their grievances 诉说他们的委屈
+- 播出；播送
+
+**airy**
+- 通风的；空气流通的
+- 无忧无虑的；无所谓的；漫不经心的
+- 轻率的；不切实际的
+	- airy promises / speculation 轻率的诺言；无端猜测
+
+**alarm**
+- 惊恐；惊慌；恐慌（名词）
+	- in alarm 惊恐地
+	- `there was no cause for alarm` 不必惊慌
+- 警报
+	- sound the alarm 发出警报
+	- raise the alarm 提高警觉
+- 警报器
+	- set off the alarm 触发警报
+	- alarm went off 警报响起、闹钟响
+	- alarm bells ring 
+- 使惊恐；使害怕；使担心（动词）
+
+**alarmed**
+- 担心；害怕
+	- be alarmed at 
+
+**alarming**
+- 使人惊恐的；令人惊慌的；引起恐慌的
+	- at an alarming rate 以惊人的速度
+
+**alert**
+- 警觉的；警惕的；戒备的
+- 意识到；注意到的
+	- be alert to sth
+- 向…报警；使警觉；使警惕；使戒备（动词）
+- 使意识到；使认识到
+	- alert sb to sth 
+- 警戒；戒备；警惕（名词）
+	- be on the alert for sth 警惕某物
+	- on (full) alert 已处于(全面)戒备状态
+- 警报
+	- fire alert
+
+**alien**
+- 陌生的；不熟悉
+	- be alien (to sb / sth)
+	- an alien environment 陌生的环境 
+- 外国的；异域的
+- 不相容；相抵触；格格不入
+	- be alien to sb / sth
+- 外国人；外侨
+
+**alienate**
+- 使疏远；使不友好；离间
+	- alienate sb (from sth / sb)
+
+**alight**
+- 燃烧；着火的
+	- `on fire`
+	- set sth alight 点燃
+	- catch alight 
+
+**align**
+- 排整齐；校准；(尤指)使成一条直线
+	- align (sth) (with sth)
+- 使一致
+	- align sth (with / to sth)
+- align yourself with sb / sth 公开支持(某组织、意见、人) 
+
+**alike**
+- 相像；十分相似的
+- 两者都；同样地
+
+**alive**
+- 活着；在世的
+	- still alive
+	- alive and well 健在
+	- stay alive 
+	- keep alive
+- 情绪饱满；激动兴奋；有生气；有活力
+	- be alive (with sth)
+	- be alive with happiness 高兴得眉飞色舞
+- alive and kicking 充满活力；活蹦乱跳；生气勃勃；流行
+- bring sth alive 使有趣
+- come alive 
+	- （同come to life）引起兴趣；生动起来
+	- 热闹起来；活跃起来
+	- 兴致勃勃；有精神起来
+
+**all**
+- 极度；尽量
+	- `In all honesty (= being as honest as I can), I can't agree` 说实在的,我不能同意
+- 全是
+	- be all smiles 笑容满面
+- and all that stuff 以及诸如此类的
+- not all that good, well 不那么好；不很好
+- not as bad(ly)/etc all that 并非那么坏(等)
+- of all people, things 在所有的…当中偏偏
+- all in all 从各方面考虑；总的说来
+- all in one 多功能；多用途
+- and all 而且；还；包括
+- in all 总共；共计
+- be all too adj 太；过分
+- all along 一直；始终
+- all-round 全面的；多方面的,全能的；多才多艺的
+- all the better, harder 更好(或努力等)
+- all but 
+	- 几乎；差不多
+	- all but sth ... 除…外全部都...
+- all in 
+	- be all in疲劳；疲惫的
+	- 全部包括在内；总共（adv）
+- all of sth (强调数量、体积等,而实际上通常很小)足足
+	- all of 100 metres 足足有 100 米
+- all over 
+	- 到处；处处
+	- 正如所提到的人那样；十分像；十足
+- all round
+	- 在各方面；全面
+	- 给每个人
+- all there 心理健全；头脑清醒
+	- not quite all there 不大正常
+- be all about sb / sth 最重要的是；主要的是
+	- It's all about 
+- it's all up with sb (某人)完蛋了
+
+**allege**
+- (未提出证据)断言,指称,声称
+	- It is alleged that ... 据称
+	- sb is alleged to do sth 被指控
+- the alleged attacker 涉嫌的袭击者
+
