@@ -1457,3 +1457,190 @@ t**abandon**
 	- sb is alleged to do sth 被指控
 - the alleged attacker 涉嫌的袭击者
 
+**allergic**
+- 过敏的
+	- be allergic to sth
+	- an allergic reaction / rash 过敏性反应/皮疹
+- 对…十分反感；厌恶
+	- `have a strong dislike of sth / sb`
+	- be allergic to sth
+
+**alliance**
+- 结盟,联盟,同盟
+	- alliance (with sb / sth) 
+	- alliance (between A and B)
+	- form / make an alliance 结成/缔结同盟 
+	- be in alliance with 
+
+**allied**
+- 结盟的,联盟的
+	- allied forces / troops 盟军
+- 类似的；共存的；有关联的
+	- allied (to / with sth)
+
+**allocate**
+- 拨…(给)；划…(归)；分配…(给)
+	- allocate sth (for sth) 
+	- allocate sth (to sb / sth) 
+	- allocate (sb / sth) sth
+
+**allotment**
+- 小块土地
+- 分配物；分配量；份额；分配
+
+**allow**
+- 允许；准许
+	- `let sb / sth do sth`
+	- be not allowed to do sth
+- 给予
+	- be allowed sth
+- 允许进入(或出去、通过)
+	- be allowed out of
+	- allow sb through 让某人通过
+- 使可能
+- 留出,给出
+	- allow sth (for sb / sth)
+- 接受；承认；同意(某事属实或正确)
+	- I'll allow you that 我同意你说的这一点
+- allow me (礼貌地表示主动帮忙)让我来
+- allow for sb / sth 考虑到；把…计算在内
+	- ..., allowing for...
+- allow of sth 容许；使有可能
+
+**allowance**
+- 津贴；补贴；补助
+	- a clothing / living / travel allowance 服装/生活/交通补贴
+- 限额；定量
+	- a baggage allowance of 20 kilos 行李限重 20 公斤
+- 免税额
+	- personal tax allowances 个人所得免税额
+- make allowance(s) for sth 考虑到,估计到
+	- `The budget made allowance for inflation` 预算考虑到了通货膨胀
+- make allowances (for sb) 体谅；谅解
+
+**all right**
+- 可接受(的)；满意(的)(同OK)
+	- `Is the coffee all right?`
+- 安全健康(的)；平安无恙(的)
+	- Do you feel all right?
+- 尚可；还算可以
+- 可允许(的)；可以(的)
+	- it's all right for sb to do sth
+- (加强语气)无疑,确实
+	- `it's her all right` 确实是她
+- it'll be all 7right on the night 到时候自会成功的；车到山前必有路
+- (确保对方同意或理解)如何,是不是
+	- ..., all right? ···,可以吧？
+- (表示同意)好,行,可以
+- That's all right (回答对方的感谢或道歉)不要紧,没什么
+
+**all-time**
+- 空前的,创纪录的,一向的
+	- at an all-time high / low
+	- `my all-time favourite song` 我一直喜爱的歌曲
+
+**allude**
+- 间接提到；暗指；影射
+	- allude to sb / sth
+
+**almighty**
+- 全能的
+- 极大的；十分严重的
+	- an almighty bang / crash / roar 砰的/哗啦/轰的一声巨响
+
+**alone**
+- 独自
+	- `Finally the two of us were alone together` 最后只有我们两人在一起
+	- all alone 
+	- be not alone 不是一个人
+- 孤苦伶仃；无依无靠；孤独；寂寞
+- 唯一,只有
+- (用于名词或代词后以加强语气)仅仅,单,只
+	- `The shoes alone cost £200` 仅鞋子一项就花了 200 英镑
+- go it alone 独力；独自干；单干
+- leave / let sb alone 不打扰；不惊动
+- leave / let sth alone 不碰；不变动；不移动
+- let alone 更不用说
+- stand alone
+	- 单独地；独立地
+	- 孤零零地矗立
+
+**along**
+- 沿着；顺着
+- along with sb (与某人)一道,一起
+- along with sb / sth 除…以外(还)；与…同样地
+
+**alongside**
+- 在…旁边；沿着…的边
+- 与…一起；与…同时
+
+**alternate**
+- 交替的；轮流的
+- 间隔的；每隔(…天等)的
+- 使交替；使轮流（动词）
+	- alternate A and B 
+	- alternate A with B
+- 交替；轮流
+	- alternate (with sth)
+	- alternate between A and B
+- the alternation of day and night 日夜交替
+
+**alternative**
+- 可供选择的事物
+- have no alternative but to do sth 
+- 可供替代的
+	- an alternative method of doing sth 做某事的其他方法
+	- an alternative solution 别的解决办法
+	- alternative energy 代用能源
+
+**although**
+- 虽然；尽管；即使
+- 不过；然而
+
+**altogether**
+- 完全,全部
+- (表示总数或总额)总共,一共
+- 总之；总而言之
+
+**always**
+- (建议可能的行动)总还,总还有
+	- `If he can't help, there's always John` 如果他帮不上忙,总还有约翰呢
+
+**amaze**
+- 使惊奇；使惊愕；使惊诧
+	- It never ceases to amaze me .... ,这一直使我惊愕不已
+	-  What amazes me is ... 使我惊诧的是,
+	-  It amazed ...
+
+**amazed**
+- 大为惊奇的
+	- be amazed (at / by sb / sth)
+	- be amazed (how / that...) 
+	- be amazed (to see, find, learn, etc.)
+	- an amazed silence 惊愕得一片默然
+
+**ambition**
+- 追求的目标；夙愿
+	- ambition (to be / do sth) 
+	- ambition (of being / doing sth)
+	- achieve sb's ambition
+	- lifelong ambition 终身追求的目标
+	- political / literary / sporting ambitions 政治抱负；文学夙愿；运动目标
+- 野心；雄心；志向；抱负
+
+**ambitious**
+- 有野心的；有雄心的
+- 费力的；耗资的；耗时的
+
+**ambivalent**
+- (忧喜参半、好坏参半等)矛盾情绪的
+	- be ambivalent (about / towards sb / sth)
+
+**amendment**
+- (法律、文件的)改动,修正案,修改,修订
+	- introduce / propose / table an amendment 提出一项修正案
+- 修正案
+
+
+
+
