@@ -22,6 +22,9 @@
 - an amount of time/money/information一段時間；一筆錢；一些信息
 	- `a quantity of sth`
 - no amount of sth 即使再多（或再大）（也不）
+- *v*amount to sth 
+	- 總計；共計
+	- 等於；相當於 `be equal to/the same as sth`
 
 **ample**
 - ample opportunity/evidence/space/proof充分的機會；足夠的證據；寬敞的空間；充足的證明
@@ -58,7 +61,7 @@
 **analogy**
 - *noun*類比；比擬；相似之處
 	- draw an analogy between A and B 把A比作B
-	- analogy(with sth)
+	- `There are no analogies with any previous legal cases.以往的法律案件沒有哪一宗可與此案類比`
 - 類推；比擬
 
 **analyse**

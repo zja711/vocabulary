@@ -1,4 +1,4 @@
-t**abandon**
+**abandon**
 `leave sb`
 `be responsible for`
 `with no intention of returning to it`
@@ -11,6 +11,7 @@ t**abandon**
 - 停止（支持或帮助），放弃（信念）
 - abandon yourself to sth 沉溺于，陷入
 - 放任，放纵（名词）
+	- with careless abandon 无所顾忌
 
 **abandoned**
 - 被遗弃的
@@ -25,6 +26,11 @@ t**abandon**
 - (使)减弱，减退，减少
 - abate sth
 	- `abate pollution` 减少污染
+- `the storm showed no signs of abating`
+
+**aberrant**
+- 违反常规的；反常的；异常的
+	- aberrant behaviour 
 
 **abide**
 `hate having to be with/deal with`
@@ -42,7 +48,7 @@ t**abandon**
 **ability**
 - 能力
 	- ability to do sth 
-- 才能，本领
+- 才能，本领，才智
 	- `extraordinary abilities` 卓越的才能
 	- `students of mixed abilities` 能力各不相同的学生
 	- `to the best of my ability (=as well as I can)` 尽全力
@@ -70,6 +76,7 @@ t**abandon**
 - 大约，左右
 - 将近，几乎
 	- `This is about the best we can hope for` 这差不多是我们所能希望的最好结果
+	- `i'm just about ready` 我就要准备好了
 - 到处 ，处处
 	- run about in ... 在...跑来跑去
 - 凌乱地，四处，到处
@@ -78,7 +85,7 @@ t**abandon**
 - 向后转，掉转方向
 - that's about all/that's about it 我要说的就是这些；我都话完了
 - 目的是，为了，涉及...方面
-	- what was all that about(=`what was the reason for what has just happened?`)? 这到底是怎么回事？
+	- what was all that about?(=`what was the reason for what has just happened?`)? 这到底是怎么回事？
 - 忙于，从事于
 	- `Everywhere people were going about their daily business` 无论哪里，人们都在忙着干日常工作
 - 在...到处；在···各处
@@ -159,6 +166,7 @@ t**abandon**
 - 缺席，不在（名词）
 	- absence from work 缺勤
 	- repeated absence from school 一再缺课
+	- in my absence 我不在的时候
 - 不存在，缺乏 `a lack of sth`
 	- `the case was dismissed in the absence of any definite proof` 此案因缺乏确凿证据二不予受理
 - absence makes the heart grow fonder 不相见，倍思念
